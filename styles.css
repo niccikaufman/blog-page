@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+}
+
+.sidenav {
+  width: 20%;
+  float: left;
+  background-color: orange;
+  position: fixed;
+  text-align: center;
+}
+
+.page-summary {
+  color: brown;
+}
+
+.username {
+  font-size: smaller;
+  color: brown;
+
+}
+.title {
+  color: tan;
+  text-align: center;
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+}
+
+.post-header {
+  color: olivedrab;
+  font-size: 20pt;
+  text-align: center;
+
+}
+.post-body {
+  float: right;
+  padding: 10px;
+  border: 1px dashed tan;
+  box-sizing: content-box;
+  color: darkorange;
+  margin-left: 25%;
+  margin-right: 25%;
+  
+}
+
+.post-image {
+  height: 40px;
+  width: 40px;
+  float: inline-start;
+}
+
+.post-footer {
+  color: orangered;
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+  float: left;
+  text-align: left;
+}
+p.summary {
+  color: white;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
